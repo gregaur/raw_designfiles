@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+html{
+	background-image: url("../background-texture.png");
+}
+
+body {
+position: absolute; 
+  left: 50%; 
+  width: 1500px;
+  margin-left: -750px;
+  margin-top:0;
+  margin-right: 0;
+}
